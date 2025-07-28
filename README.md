@@ -73,7 +73,7 @@ The script auto-installs them if you choose option 5.
 - Office archives & Wine build © [Troplo](https://gist.github.com/Troplo/1a8701908f3801d450e6cf01ea6e9837)
 
   (original script: [gist link](https://gist.github.com/Troplo/1a8701908f3801d450e6cf01ea6e9837))  
-- This wrapper & Fish port © 2024 YOU  
+- This wrapper & Fish port © 2024 SK-DEV-AI  
 - Licence: MIT
 
 ---
